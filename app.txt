@@ -1,2 +1,4 @@
 Collaboration Demo Project
 Version 1.0
+@new feature has added
+$ one more feature added
