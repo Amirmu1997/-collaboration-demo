@@ -8,3 +8,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Open an issue
 - Create a branch
 - Submit a pull request
+@ more details to improve documentation has added
